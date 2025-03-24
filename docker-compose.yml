@@ -1,0 +1,8 @@
+version: "3.3"
+
+services:
+  binance-bot:
+    build: .
+    env_file:
+      - .env
+    restart: unless-stopped
