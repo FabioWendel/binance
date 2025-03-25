@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,venv,visualstudio,visualstudiocode,dotenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,venv,visualstudio,visualstudiocode,dotenv
-
+positions.json
 ### dotenv ###
 .env
 
